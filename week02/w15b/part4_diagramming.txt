@@ -1,0 +1,19 @@
+if (assignment is due more than 10 days) {
+    if (up to date) {
+        work on assignment
+    } else {
+        catch up
+    }
+} else if (assignment is due between 7 and 10 days inclusive) {
+    if (started) {
+        check style
+    } else {
+        ask for help
+    }
+} else {
+    if (on track) {
+        keep at it
+    } else {
+        attend help session
+    }
+}

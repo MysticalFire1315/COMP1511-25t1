@@ -1,0 +1,12 @@
+if (more than 10 days until assignment is due) {
+    if (up to date with lec and labs) {
+        work on assignment
+    } else {
+        catch up
+    }
+}
+
+if (7 or more days until assignment is due) {
+
+}
+
